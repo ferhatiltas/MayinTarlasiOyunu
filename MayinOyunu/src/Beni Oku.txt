@@ -1,0 +1,6 @@
+Projenin çalışması için;
+Adım 1: Projeyi zip dosyası olarak indiriniz.
+Adım 2: Projeyi zip dosyasından çıkartıp klasöre ekleyiniz.
+Adım 3: Projeyi Eclipse dosyalarınızın olduğu kısma ekleyiniz.
+Adım 4: Eclipse'yi açarken proje açma kısmında projeyi seçiniz.
+Not: Proje kodları ve projenin çalışır vaziyetteki halini görmek için videoyu izleyiniz.
